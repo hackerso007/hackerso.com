@@ -1,6 +1,6 @@
-# ex9-fun
+## hackerso
 
-> 更多快乐？
+站点的收集来源于个人平时的收藏夹，所以肯定存在一定的局限性，希望有安全类不错的网站可以通过issue提交添加，能汇聚大家的资源信息，形成一个相对实用简洁的网络安全导航！
 
 
 ## 部署自己的导航
@@ -14,3 +14,5 @@
 - 基于 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
 
 - [查看导航](/data/webstack.yml)
+
+##
